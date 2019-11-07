@@ -1,0 +1,28 @@
+# Project 02
+
+Garrett Corder 811877300
+Aaron Daugherty 811976955
+
+## Instructions
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type:
+
+```
+$ make run
+```
+
+/To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+##Optional Quote(s)
+
+"Big money. Big women. Big fun."
+  -Sips
